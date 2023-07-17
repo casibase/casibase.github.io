@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://casibase.org/blog</id>
+    <title>Casibase · Domain knowledge database powered by ChatGPT, Casbin and Casdoor Blog</title>
+    <updated>2023-07-17T14:58:46.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://casibase.org/blog"/>
+    <subtitle>Casibase · Domain knowledge database powered by ChatGPT, Casbin and Casdoor Blog</subtitle>
+    <icon>https://casibase.org/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://casibase.org/blog/welcome</id>
+        <link href="https://casibase.org/blog/welcome"/>
+        <updated>2023-07-17T14:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Casibase website!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Casibase website!</p>]]></content>
+        <author>
+            <name>Casbin Team</name>
+            <uri>https://github.com/casbin</uri>
+        </author>
+        <category label="casibase" term="casibase"/>
+    </entry>
+</feed>
