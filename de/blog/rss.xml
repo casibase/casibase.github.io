@@ -4,7 +4,7 @@
         <title>Casibase · Domain knowledge database powered by ChatGPT, Casbin and Casdoor Blog</title>
         <link>https://casibase.org/de/blog</link>
         <description>Casibase · Domain knowledge database powered by ChatGPT, Casbin and Casdoor Blog</description>
-        <lastBuildDate>Mon, 04 Dec 2023 16:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 08:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://casibase.org/de/blog/welcome</link>
             <guid>https://casibase.org/de/blog/welcome</guid>
-            <pubDate>Mon, 04 Dec 2023 16:56:46 GMT</pubDate>
+            <pubDate>Sat, 09 Dec 2023 08:42:05 GMT</pubDate>
             <description><![CDATA[Welcome to Casibase website!]]></description>
             <content:encoded><![CDATA[<p>Welcome to Casibase website!</p>]]></content:encoded>
             <category>casibase</category>
