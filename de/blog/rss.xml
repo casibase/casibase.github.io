@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Casibase · Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models Blog</title>
+        <title>Casibase · Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc. Blog</title>
         <link>https://casibase.org/de/blog</link>
-        <description>Casibase · Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models Blog</description>
-        <lastBuildDate>Wed, 17 Jan 2024 04:08:08 GMT</lastBuildDate>
+        <description>Casibase · Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc. Blog</description>
+        <lastBuildDate>Wed, 17 Jan 2024 09:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://casibase.org/de/blog/welcome</link>
             <guid>https://casibase.org/de/blog/welcome</guid>
-            <pubDate>Wed, 17 Jan 2024 04:08:08 GMT</pubDate>
+            <pubDate>Wed, 17 Jan 2024 09:13:30 GMT</pubDate>
             <description><![CDATA[Welcome to Casibase website!]]></description>
             <content:encoded><![CDATA[<p>Welcome to Casibase website!</p>]]></content:encoded>
             <category>casibase</category>
