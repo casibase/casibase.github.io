@@ -4,7 +4,7 @@
         <title>Casibase · Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc. Blog</title>
         <link>https://casibase.org/zh/blog</link>
         <description>Casibase · Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc. Blog</description>
-        <lastBuildDate>Wed, 14 Feb 2024 18:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 09:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://casibase.org/zh/blog/welcome</link>
             <guid>https://casibase.org/zh/blog/welcome</guid>
-            <pubDate>Wed, 14 Feb 2024 18:18:35 GMT</pubDate>
+            <pubDate>Sun, 03 Mar 2024 09:40:12 GMT</pubDate>
             <description><![CDATA[Welcome to Casibase website!]]></description>
             <content:encoded><![CDATA[<p>Welcome to Casibase website!</p>]]></content:encoded>
             <category>casibase</category>
