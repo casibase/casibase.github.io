@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[1658],{1459:e=>{e.exports=JSON.parse('{"title":"The Basics","slug":"/category/the-basics","permalink":"/ko/docs/category/the-basics","navigation":{"next":{"title":"\uac1c\uc694","permalink":"/ko/docs/overview"}}}')}}]);

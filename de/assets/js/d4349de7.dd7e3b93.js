@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[7715],{670:e=>{e.exports=JSON.parse('{"title":"Messages","slug":"/category/messages","permalink":"/de/docs/category/messages","navigation":{"previous":{"title":"Overview","permalink":"/de/docs/chats/overview"},"next":{"title":"Overview","permalink":"/de/docs/messages/overview"}}}')}}]);
