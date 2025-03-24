@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[5759],{6930:e=>{e.exports=JSON.parse('{"title":"Die Grundlagen","slug":"/category/the-basics","permalink":"/de/docs/category/the-basics","navigation":{"next":{"title":"\xdcberblick","permalink":"/de/docs/overview"}}}')}}]);

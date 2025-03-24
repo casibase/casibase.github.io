@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Casibase + DeepSeek \ud1b5\ud569 \uac00\uc774\ub4dc","permalink":"/ko/blog/casibase-deepSeek-guideline"},{"title":"\ud658\uc601\ud569\ub2c8\ub2e4","permalink":"/ko/blog/welcome"}]}')}}]);

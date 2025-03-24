@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[8042],{8707:e=>{e.exports=JSON.parse('{"title":"Los conceptos b\xe1sicos","slug":"/category/the-basics","permalink":"/es/docs/category/the-basics","navigation":{"next":{"title":"Descripci\xf3n general","permalink":"/es/docs/overview"}}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[1680],{7859:e=>{e.exports=JSON.parse('{"title":"Nodes","slug":"/category/nodes","permalink":"/ja/docs/category/nodes","navigation":{"previous":{"title":"\u6982\u8981","permalink":"/ja/docs/messages/overview"},"next":{"title":"\u6982\u8981","permalink":"/ja/docs/node/overview"}}}')}}]);

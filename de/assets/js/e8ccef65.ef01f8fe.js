@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[4255],{9637:e=>{e.exports=JSON.parse('{"title":"Knoten","slug":"/category/nodes","permalink":"/de/docs/category/nodes","navigation":{"previous":{"title":"\xdcbersicht","permalink":"/de/docs/messages/overview"},"next":{"title":"\xdcbersicht","permalink":"/de/docs/node/overview"}}}')}}]);

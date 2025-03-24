@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[5830],{1628:e=>{e.exports=JSON.parse('{"title":"Les bases","slug":"/category/the-basics","permalink":"/fr/docs/category/the-basics","navigation":{"next":{"title":"Aper\xe7u","permalink":"/fr/docs/overview"}}}')}}]);
