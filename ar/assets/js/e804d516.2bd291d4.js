@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[4270],{3779:a=>{a.exports=JSON.parse('[{"label":"\\n\\\\u0643\\\\u0627\\\\u0633\\\\u0627\\\\u0628\\\\u064a\\\\u0633","permalink":"/ar/blog/tags/u-0643-u-0627-u-0633-u-0627-u-0628-u-064-a-u-0633","count":1},{"label":"Casibase","permalink":"/ar/blog/tags/casibase","count":1}]')}}]);
