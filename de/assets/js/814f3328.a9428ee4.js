@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Aktuelle Beitr\xe4ge","items":[{"title":"Willkommen","permalink":"/de/blog/welcome"},{"title":"Casibase + DeepSeek Integrationsleitfaden","permalink":"/de/blog/casibase-deepSeek-guideline"}]}')}}]);
