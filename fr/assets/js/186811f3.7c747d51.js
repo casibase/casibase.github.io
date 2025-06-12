@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[1552],{2727:e=>{e.exports=JSON.parse('{"title":"ChainMaker","slug":"/category/chainmaker","permalink":"/fr/docs/category/chainmaker","navigation":{"previous":{"title":"VNC","permalink":"/fr/docs/node/vnc"},"next":{"title":"Overview","permalink":"/fr/docs/chainmaker/overview"}}}')}}]);
