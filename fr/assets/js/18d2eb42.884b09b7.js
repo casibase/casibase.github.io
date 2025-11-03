@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[2348],{6220:e=>{e.exports=JSON.parse('{"title":"Graphs","slug":"/category/graphs","permalink":"/fr/docs/category/graphs","navigation":{"previous":{"title":"VNC","permalink":"/fr/docs/node/vnc"},"next":{"title":"Graphs","permalink":"/fr/docs/graphs/overview"}}}')}}]);
