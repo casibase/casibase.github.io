@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[2622],{9951:e=>{e.exports=JSON.parse('{"permalink":"/ko/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"\ube14\ub85c\uadf8","blogTitle":"\ube14\ub85c\uadf8"}')}}]);

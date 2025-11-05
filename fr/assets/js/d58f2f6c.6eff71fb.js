@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[7800],{5369:e=>{e.exports=JSON.parse('{"permalink":"/fr/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blogue","blogTitle":"Blogue"}')}}]);

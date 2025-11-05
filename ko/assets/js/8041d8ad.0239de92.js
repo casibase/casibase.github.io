@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[7978],{8110:s=>{s.exports=JSON.parse('{"label":"Dify","permalink":"/ko/blog/tags/dify","allTagsPath":"/ko/blog/tags","count":1}')}}]);

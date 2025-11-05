@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[2565],{1e3:e=>{e.exports=JSON.parse('{"label":"RAG","permalink":"/uk/blog/tags/rag","allTagsPath":"/uk/blog/tags","count":1}')}}]);

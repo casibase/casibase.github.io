@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasibase_website=self.webpackChunkcasibase_website||[]).push([[5427],{8207:s=>{s.exports=JSON.parse('{"label":"FastGPT","permalink":"/zh/blog/tags/fast-gpt","allTagsPath":"/zh/blog/tags","count":1}')}}]);
